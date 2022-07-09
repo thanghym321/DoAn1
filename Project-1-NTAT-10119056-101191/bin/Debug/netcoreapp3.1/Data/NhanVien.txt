@@ -1,0 +1,10 @@
+
+nv1|Trương Văn Dũng|Nam|Bán Hàng|Duy Tiên-Hà Nam|0365902380
+
+nv2|Dương Vũ Hoàng Việt|Nam|Bán Hàng|Yên Mỹ-Hưng Yên|0978577422
+
+nv3|Lê Thanh Toàn|Nam|Bán Hàng|Văn Giang-Hưng Yên|0356964919
+
+nv4|Nguyễn Chí Mạnh|Nam|Bán Hàng|Kim Động-Hưng Yên|0566211950
+
+nv5|Trần Ngọc Tú|Nam|Bán Hàng|Yên Mỹ-Hưng Yên|372082758
